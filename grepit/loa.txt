@@ -1,0 +1,10 @@
+Lorem ipsum is a type of placeholder text that is used to fill space without saying anything meaningful. It's also known as filler or dummy text. 
+Lorem ipsum is used in publishing, graphic design, web design, typography, layout, and printing. It's used to: 
+Demonstrate the visual form of a document or typeface
+Emphasize design elements over content
+Give an idea of what real words will look like in the final product
+Lorem ipsum is pseudo-Latin text. It's been the industry's standard dummy text since the 1500s. It's attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. 
+You can generate Lorem ipsum placeholder text in any number of characters, words, sentences, or paragraphs. Here are some generators: 
+Lorem Ipsum Generator
+One-Click Lorem Ipsum Generator
+Dummy Text Generato
