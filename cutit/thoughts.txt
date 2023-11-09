@@ -1,0 +1,13 @@
+1) It removes sections of each line of a file,
+    so operating on each line separately
+    possibly input from some other utility like
+    ls -l | cut −d ' ' −f 5−7
+    the way the script accepts input can be explicitly 
+    stated files or piped outputs from other commands like 
+    ls -l or echo
+    
+    so standard input standard output from sys module and of course the argparse module
+
+2) Options from the man page to be implemented:
+    a) -f select these fields
+    b) -d delimiter
