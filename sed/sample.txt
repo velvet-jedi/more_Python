@@ -1,0 +1,2 @@
+This is an example text with some new words like new and slow. Let's see how the tool can replace them.
+
